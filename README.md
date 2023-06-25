@@ -1,4 +1,4 @@
-# If you come from bash you might have to change your $PATH.
+"# If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
@@ -104,3 +104,5 @@ source /nfs/homes/dcella-d/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias francinette=/nfs/homes/dcella-d/francinette/tester.sh
 
 alias paco=/nfs/homes/dcella-d/francinette/tester.sh
+
+"
